@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug: script.py (inventaire de corpus)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/L'inventaire de corpus/script.py",
+      "cwd": "${workspaceFolder}/L'inventaire de corpus",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Debug: generer_corpus.py",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/L'inventaire de corpus/generer_corpus.py",
+      "cwd": "${workspaceFolder}/L'inventaire de corpus",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Debug: fichier courant",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "cwd": "${fileDirname}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
