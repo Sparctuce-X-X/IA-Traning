@@ -1,0 +1,2 @@
+Un fichier avec des accents : café, éléphant, naïve, œuf.
+Le café est chaud.

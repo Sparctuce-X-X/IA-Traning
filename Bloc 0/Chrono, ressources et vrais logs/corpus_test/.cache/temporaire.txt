@@ -1,0 +1,2 @@
+Fichier temporaire dans un dossier cache.
+Le cache ne devrait peut-etre pas etre parcouru.
