@@ -1,0 +1,59 @@
+{
+  "service": "résumé-de-documents",
+  "généré_le": "2026-08-28T09:14:07+00:00",
+  "appels": [
+    {
+      "id": "a1",
+      "modèle": "petit-modèle",
+      "horodatage": "2026-08-28T09:14:07+00:00",
+      "tokens_entrée": 1200,
+      "tokens_sortie": 340,
+      "coût": "0.1",
+      "prompt": "Résume ce café littéraire en trois phrases."
+    },
+    {
+      "id": "a2",
+      "modèle": "petit-modèle",
+      "horodatage": "2026-08-28T11:47:31+02:00",
+      "tokens_entrée": 890,
+      "tokens_sortie": 512,
+      "coût": "0.1",
+      "prompt": "Traduis « l'œuf ou la poule » en anglais."
+    },
+    {
+      "id": "a3",
+      "modèle": "grand-modèle",
+      "horodatage": "2026-08-28T14:02:00",
+      "tokens_entrée": 15000,
+      "tokens_sortie": 2048,
+      "coût": "0.2",
+      "prompt": "Analyse naïve d'un corpus multilingue : ça, où, à, ÿ."
+    },
+    {
+      "id": "a4",
+      "modèle": "grand-modèle",
+      "horodatage": "2026-08-28T16:30:12+00:00",
+      "tokens_entrée": 4300,
+      "coût": "0.2",
+      "prompt": "Champ tokens_sortie absent : à toi de décider quoi faire."
+    },
+    {
+      "id": "a5",
+      "modèle": "petit-modèle",
+      "horodatage": "2026-08-28T18:00:00+00:00",
+      "tokens_entrée": 60,
+      "tokens_sortie": 12,
+      "coût": "0",
+      "prompt": "Coût nul, appel mis en cache."
+    },
+    {
+      "id": "a6",
+      "modèle": "grand-modèle",
+      "horodatage": "2026-08-28T21:15:45+00:00",
+      "tokens_entrée": 7800,
+      "tokens_sortie": 1024,
+      "coût": "0.11",
+      "prompt": "Trois décimales significatives, à ne pas arrondir trop tôt."
+    }
+  ]
+}

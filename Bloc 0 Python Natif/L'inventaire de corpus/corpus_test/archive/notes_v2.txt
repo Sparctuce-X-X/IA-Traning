@@ -1,0 +1,6 @@
+Le chat dort sur le toit.
+Le chien dort aussi.
+
+# ceci est un commentaire
+Le chat et le chien dorment.
+ 
